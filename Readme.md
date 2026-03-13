@@ -16,9 +16,9 @@ Vrunda Popawala (21084752), Vrajani Popawala (21084751), Ayushi Lad (21066057), 
 
 ## Description
 
-Brief overview of your game’s concept, mechanics, and player experience
+Brief overview of your game’s concept, mechanics, and player experience and interactions
 
-Pixelated Thoughts is narrative-driven interactive game designed to rasie awareness about Schizophrenia and helps players beter understand the challenges individuals with the condition may experince.The game simulates disorganized thinking and intrusive thoughts gameplay mechanices that intentionally disrupt the players focus.
+Pixelated Thoughts is narrative-driven interactive game designed to rasie awareness about Schizophrenia and helps players beter understand the challenges individuals with the condition may experince.The game simulates disorganized thinking and intrusive thoughts gameplay mechanices that intentionally disrupt the players focus. 
 
 Players navigate a series of social interactions where they must assemble sentences from scrambled word fragments to communicate with others. However, random thought interruptions appear on the screen, forcing the player to clear them before continuing. Some word fragments disappear quickly, creating time pressure and simulating the diffculty of organizing thoughts in conversation.
 
