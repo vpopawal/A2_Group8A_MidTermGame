@@ -33,7 +33,7 @@ let buildings = [
   },
 ];
 
-// Draw the world building background
+// Draw the world background
 function drawWorld() {
   image(worldimg, 0, 0, width, height);
 

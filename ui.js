@@ -1,4 +1,3 @@
-//screens
 function drawStartScreen() {
   image(startimg, 0, 0, width, height);
 }

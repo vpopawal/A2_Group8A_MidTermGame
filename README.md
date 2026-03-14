@@ -16,7 +16,7 @@ Vrunda Popawala (21084752), Vrajani Popawala (21084751), Ayushi Lad (21066057), 
 
 ## Description
 
-Brief overview of your game’s concept, mechanics, and player experience and interactions
+Brief overview of your game’s concept, mechanics, and player experience
 
 Pixelated Thoughts is narrative-driven interactive game designed to rasie awareness about Schizophrenia and helps players beter understand the challenges individuals with the condition may experince.The game simulates disorganized thinking and intrusive thoughts gameplay mechanices that intentionally disrupt the players focus.
 
